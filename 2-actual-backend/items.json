@@ -1,0 +1,1198 @@
+{
+  "items": [
+    [
+      {
+        "id": "1",
+        "image": "images/73.jpg",
+        "company": "Instant",
+        "item_name": "Blazer for men's",
+        "original_price": 285,
+        "current_price": 142,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2024",
+        "rating": { "stars": 4, "count": 5000 }
+      },
+      {
+        "id": "2",
+        "image": "images/74.jpg",
+        "company": "Instant",
+        "item_name": "Jacket for men's",
+        "original_price": 485,
+        "current_price": 291,
+        "discount_percentage": 40,
+        "return_period": 10,
+        "delivery_date": "13 Oct 2024",
+        "rating": { "stars": 4.3, "count": 4000 }
+      },
+      {
+        "id": "3",
+        "image": "images/75.jpg",
+        "company": "Instant",
+        "item_name": "T-shirt for men's",
+        "original_price": 500,
+        "current_price": 250,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Sep 2024",
+        "rating": { "stars": 4.5, "count": 3000 }
+      },
+      {
+        "id": "4",
+        "image": "images/76.jpg",
+        "company": "Instant",
+        "item_name": " Men's wear",
+        "original_price": 625,
+        "current_price": 437,
+        "discount_percentage": 30,
+        "return_period": 10,
+        "delivery_date": "01 Oct 2024",
+        "rating": { "stars": 4.2, "count": 5040 }
+      },
+      {
+        "id": "5",
+        "image": "images/77.jpg",
+        "company": "Instant",
+        "item_name": "Shirt for men's",
+        "original_price": 700,
+        "current_price": 420,
+        "discount_percentage": 40,
+        "return_period": 11,
+        "delivery_date": "15 Oct 2024",
+        "rating": { "stars": 3.8, "count": 4130 }
+      },
+      {
+        "id": "6",
+        "image": "images/78.jpg",
+        "company": "Instant",
+        "item_name": "Shirt for men's",
+        "original_price": 580,
+        "current_price": 464,
+        "discount_percentage": 45,
+        "return_period": 14,
+        "delivery_date": "10 May 2024",
+        "rating": { "stars": 4.5, "count": 2560 }
+      },
+      {
+        "id": "7",
+        "image": "images/79.jpg",
+        "company": "Instant",
+        "item_name": "Men's wear",
+        "original_price": 1000,
+        "current_price": 400,
+        "discount_percentage": 60,
+        "return_period": 10,
+        "delivery_date": "17 Aug 2024",
+        "rating": { "stars": 4.6, "count": 2456 }
+      },
+      {
+        "id": "8",
+        "image": "images/80.jpg",
+        "company": "Instant",
+        "item_name": "Shirt for men's",
+        "original_price": 1000,
+        "current_price": 600,
+        "discount_percentage": 40,
+        "return_period": 10,
+        "delivery_date": "10 Nov 2024",
+        "rating": { "stars": 4, "count": 5000 }
+      },
+      {
+        "id": "9",
+        "image": "images/81.jpg",
+        "company": "Instant",
+        "item_name": "T-shirt for men's",
+        "original_price": 285,
+        "current_price": 142,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Oct 2024",
+        "rating": { "stars": 4, "count": 5000 }
+      },
+      {
+        "id": "10",
+        "image": "images/82.jpg",
+        "company": "Instant",
+        "item_name": "Men's wear",
+        "original_price": 485,
+        "current_price": 291,
+        "discount_percentage": 40,
+        "return_period": 10,
+        "delivery_date": "13 Oct 2024",
+        "rating": { "stars": 4.3, "count": 4000 }
+      },
+      {
+        "id": "11",
+        "image": "images/83.jpg",
+        "company": "Instant",
+        "item_name": "T-shirt for men's",
+        "original_price": 500,
+        "current_price": 250,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "10 Sep 2024",
+        "rating": { "stars": 4.5, "count": 3000 }
+      },
+      {
+        "id": "12",
+        "image": "images/84.jpg",
+        "company": "Instant",
+        "item_name": " Men's wear",
+        "original_price": 625,
+        "current_price": 437,
+        "discount_percentage": 30,
+        "return_period": 10,
+        "delivery_date": "01 Oct 2024",
+        "rating": { "stars": 4.2, "count": 5040 }
+      },
+      {
+        "id": "13",
+        "image": "images/85.jpg",
+        "company": "Instant",
+        "item_name": "Shoes  for men's",
+        "original_price": 700,
+        "current_price": 420,
+        "discount_percentage": 40,
+        "return_period": 11,
+        "delivery_date": "15 Oct 2024",
+        "rating": { "stars": 3.8, "count": 4130 }
+      },
+      {
+        "id": "14",
+        "image": "images/86.jpg",
+        "company": "Instant",
+        "item_name": "T-shirt for men's",
+        "original_price": 580,
+        "current_price": 464,
+        "discount_percentage": 45,
+        "return_period": 14,
+        "delivery_date": "10 May 2024",
+        "rating": { "stars": 4.5, "count": 2560 }
+      },
+      {
+        "id": "15",
+        "image": "images/87.jpg",
+        "company": "Instant",
+        "item_name": "Men's wear",
+        "original_price": 1000,
+        "current_price": 400,
+        "discount_percentage": 60,
+        "return_period": 10,
+        "delivery_date": "17 Aug 2024",
+        "rating": { "stars": 4.6, "count": 2456 }
+      },
+      {
+        "id": "16",
+        "image": "images/88.jpg",
+        "company": "Instant",
+        "item_name": "Shirt for men's",
+        "original_price": 1000,
+        "current_price": 600,
+        "discount_percentage": 40,
+        "return_period": 10,
+        "delivery_date": "10 Nov 2024",
+        "rating": { "stars": 4, "count": 5000 }
+      }
+    ],
+    {
+      "mensItems": [
+        {
+          "id": "009",
+          "image": "images/9.jpeg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 285,
+          "current_price": 142,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Oct 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "010",
+          "image": "images/10.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 485,
+          "current_price": 291,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "13 Oct 2024",
+          "rating": { "stars": 4.3, "count": 4000 }
+        },
+        {
+          "id": "011",
+          "image": "images/11.jpeg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 500,
+          "current_price": 250,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Sep 2024",
+          "rating": { "stars": 4.5, "count": 3000 }
+        },
+        {
+          "id": "012",
+          "image": "images/12.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 625,
+          "current_price": 437,
+          "discount_percentage": 30,
+          "return_period": 10,
+          "delivery_date": "01 Oct 2024",
+          "rating": { "stars": 4.2, "count": 5040 }
+        },
+        {
+          "id": "013",
+          "image": "images/13.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 700,
+          "current_price": 420,
+          "discount_percentage": 40,
+          "return_period": 11,
+          "delivery_date": "15 Oct 2024",
+          "rating": { "stars": 3.8, "count": 4130 }
+        },
+        {
+          "id": "014",
+          "image": "images/14.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 580,
+          "current_price": 464,
+          "discount_percentage": 45,
+          "return_period": 14,
+          "delivery_date": "10 May 2024",
+          "rating": { "stars": 4.5, "count": 2560 }
+        },
+        {
+          "id": "015",
+          "image": "images/15.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 400,
+          "discount_percentage": 60,
+          "return_period": 10,
+          "delivery_date": "17 Aug 2024",
+          "rating": { "stars": 4.6, "count": 2456 }
+        },
+        {
+          "id": "016",
+          "image": "images/16.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "womensItems": [
+        {
+          "id": "017",
+          "image": "images/17.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1000,
+          "current_price": 800,
+          "discount_percentage": 20,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "018",
+          "image": "images/18.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 2000,
+          "current_price": 1200,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.3, "count": 5000 }
+        },
+        {
+          "id": "019",
+          "image": "images/19.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1200,
+          "current_price": 600,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.4, "count": 5015 }
+        },
+        {
+          "id": "020",
+          "image": "images/20.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1400,
+          "current_price": 700,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "021",
+          "image": "images/21.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1200,
+          "current_price": 1080,
+          "discount_percentage": 10,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.2, "count": 5000 }
+        },
+        {
+          "id": "022",
+          "image": "images/22.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.2, "count": 4000 }
+        },
+        {
+          "id": "023",
+          "image": "images/23.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1100,
+          "current_price": 880,
+          "discount_percentage": 20,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 3, "count": 4150 }
+        },
+        {
+          "id": "024",
+          "image": "images/24.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 1500,
+          "current_price": 900,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.5, "count": 3200 }
+        }
+      ]
+    },
+    {
+      "kidsItems": [
+        {
+          "id": "025",
+          "image": "images/25.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "026",
+          "image": "images/26.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1200,
+          "current_price": 600,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "027",
+          "image": "images/27.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "028",
+          "image": "images/28.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1200,
+          "current_price": 600,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "029",
+          "image": "images/29.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1800,
+          "current_price": 600,
+          "discount_percentage": 1480,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "030",
+          "image": "images/30.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "031",
+          "image": "images/31.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 1500,
+          "current_price": 1350,
+          "discount_percentage": 10,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "032",
+          "image": "images/32.jpg",
+          "company": "Instant",
+          "item_name": "Kids wear",
+          "original_price": 2000,
+          "current_price": 1000,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "homeLivingItems": [
+        {
+          "id": "033",
+          "image": "images/33.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "034",
+          "image": "images/34.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1200,
+          "current_price": 600,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "035",
+          "image": "images/35.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "036",
+          "image": "images/36.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1200,
+          "current_price": 600,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "037",
+          "image": "images/37.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1800,
+          "current_price": 600,
+          "discount_percentage": 1480,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "038",
+          "image": "images/38.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "039",
+          "image": "images/39.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 1500,
+          "current_price": 1350,
+          "discount_percentage": 10,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "040",
+          "image": "images/40.jpeg",
+          "company": "Instant",
+          "item_name": "Home and Living Items",
+          "original_price": 2000,
+          "current_price": 1000,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "beautyItems": [
+        {
+          "id": "041",
+          "image": "images/41.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1000,
+          "current_price": 800,
+          "discount_percentage": 20,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "042",
+          "image": "images/42.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 2000,
+          "current_price": 1200,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.3, "count": 5000 }
+        },
+        {
+          "id": "043",
+          "image": "images/43.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1200,
+          "current_price": 600,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.4, "count": 5015 }
+        },
+        {
+          "id": "044",
+          "image": "images/44.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1400,
+          "current_price": 700,
+          "discount_percentage": 50,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "045",
+          "image": "images/45.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1200,
+          "current_price": 1080,
+          "discount_percentage": 10,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.2, "count": 5000 }
+        },
+        {
+          "id": "046",
+          "image": "images/46.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.2, "count": 4000 }
+        },
+        {
+          "id": "047",
+          "image": "images/47.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1100,
+          "current_price": 880,
+          "discount_percentage": 20,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 3, "count": 4150 }
+        },
+        {
+          "id": "048",
+          "image": "images/48.jpg",
+          "company": "Instant",
+          "item_name": "Beauty product",
+          "original_price": 1500,
+          "current_price": 900,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4.5, "count": 3200 }
+        }
+      ]
+    },
+    {
+      "shoesItems": [
+        {
+          "id": "049",
+          "image": "images/49.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes for men's",
+          "original_price": 285,
+          "current_price": 142,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Oct 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "050",
+          "image": "images/50.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes for men's",
+          "original_price": 485,
+          "current_price": 291,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "13 Oct 2024",
+          "rating": { "stars": 4.3, "count": 4000 }
+        },
+        {
+          "id": "051",
+          "image": "images/51.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes for men's",
+          "original_price": 500,
+          "current_price": 250,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Sep 2024",
+          "rating": { "stars": 4.5, "count": 3000 }
+        },
+        {
+          "id": "052",
+          "image": "images/52.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes  for men's",
+          "original_price": 625,
+          "current_price": 437,
+          "discount_percentage": 30,
+          "return_period": 10,
+          "delivery_date": "01 Oct 2024",
+          "rating": { "stars": 4.2, "count": 5040 }
+        },
+        {
+          "id": "053",
+          "image": "images/53.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes  for men's",
+          "original_price": 700,
+          "current_price": 420,
+          "discount_percentage": 40,
+          "return_period": 11,
+          "delivery_date": "15 Oct 2024",
+          "rating": { "stars": 3.8, "count": 4130 }
+        },
+        {
+          "id": "054",
+          "image": "images/54.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes  for men's",
+          "original_price": 580,
+          "current_price": 464,
+          "discount_percentage": 45,
+          "return_period": 14,
+          "delivery_date": "10 May 2024",
+          "rating": { "stars": 4.5, "count": 2560 }
+        },
+        {
+          "id": "055",
+          "image": "images/55.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes for men's",
+          "original_price": 1000,
+          "current_price": 400,
+          "discount_percentage": 60,
+          "return_period": 10,
+          "delivery_date": "17 Aug 2024",
+          "rating": { "stars": 4.6, "count": 2456 }
+        },
+        {
+          "id": "056",
+          "image": "images/56.jpeg",
+          "company": "Instant",
+          "item_name": "Shoes  for men's",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "designerDenItems": [
+        {
+          "id": "057",
+          "image": "images/9.jpeg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 285,
+          "current_price": 142,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Oct 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "058",
+          "image": "images/10.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 485,
+          "current_price": 291,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "13 Oct 2024",
+          "rating": { "stars": 4.3, "count": 4000 }
+        },
+        {
+          "id": "059",
+          "image": "images/11.jpeg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 500,
+          "current_price": 250,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Sep 2024",
+          "rating": { "stars": 4.5, "count": 3000 }
+        },
+        {
+          "id": "060",
+          "image": "images/12.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 625,
+          "current_price": 437,
+          "discount_percentage": 30,
+          "return_period": 10,
+          "delivery_date": "01 Oct 2024",
+          "rating": { "stars": 4.2, "count": 5040 }
+        },
+        {
+          "id": "061",
+          "image": "images/13.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 700,
+          "current_price": 420,
+          "discount_percentage": 40,
+          "return_period": 11,
+          "delivery_date": "15 Oct 2024",
+          "rating": { "stars": 3.8, "count": 4130 }
+        },
+        {
+          "id": "062",
+          "image": "images/14.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 580,
+          "current_price": 464,
+          "discount_percentage": 45,
+          "return_period": 14,
+          "delivery_date": "10 May 2024",
+          "rating": { "stars": 4.5, "count": 2560 }
+        },
+        {
+          "id": "063",
+          "image": "images/15.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 400,
+          "discount_percentage": 60,
+          "return_period": 10,
+          "delivery_date": "17 Aug 2024",
+          "rating": { "stars": 4.6, "count": 2456 }
+        },
+        {
+          "id": "064",
+          "image": "images/16.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "trendytrinketsItems": [
+        {
+          "id": "065",
+          "image": "images/21.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 285,
+          "current_price": 142,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Oct 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "066",
+          "image": "images/22.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 485,
+          "current_price": 291,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "13 Oct 2024",
+          "rating": { "stars": 4.3, "count": 4000 }
+        },
+        {
+          "id": "067",
+          "image": "images/23.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 500,
+          "current_price": 250,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Sep 2024",
+          "rating": { "stars": 4.5, "count": 3000 }
+        },
+        {
+          "id": "068",
+          "image": "images/24.jpg",
+          "company": "Instant",
+          "item_name": "Women's wear",
+          "original_price": 625,
+          "current_price": 437,
+          "discount_percentage": 30,
+          "return_period": 10,
+          "delivery_date": "01 Oct 2024",
+          "rating": { "stars": 4.2, "count": 5040 }
+        },
+        {
+          "id": "069",
+          "image": "images/69.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 700,
+          "current_price": 420,
+          "discount_percentage": 40,
+          "return_period": 11,
+          "delivery_date": "15 Oct 2024",
+          "rating": { "stars": 3.8, "count": 4130 }
+        },
+        {
+          "id": "070",
+          "image": "images/70.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 580,
+          "current_price": 464,
+          "discount_percentage": 45,
+          "return_period": 14,
+          "delivery_date": "10 May 2024",
+          "rating": { "stars": 4.5, "count": 2560 }
+        },
+        {
+          "id": "071",
+          "image": "images/71.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 400,
+          "discount_percentage": 60,
+          "return_period": 10,
+          "delivery_date": "17 Aug 2024",
+          "rating": { "stars": 4.6, "count": 2456 }
+        },
+        {
+          "id": "072",
+          "image": "images/72.jpeg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "stylesplashItems": [
+        {
+          "id": "073",
+          "image": "images/73.jpg",
+          "company": "Instant",
+          "item_name": "Blazer for men's",
+          "original_price": 285,
+          "current_price": 142,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Oct 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "074",
+          "image": "images/74.jpg",
+          "company": "Instant",
+          "item_name": "Jacket for men's",
+          "original_price": 485,
+          "current_price": 291,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "13 Oct 2024",
+          "rating": { "stars": 4.3, "count": 4000 }
+        },
+        {
+          "id": "075",
+          "image": "images/75.jpg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 500,
+          "current_price": 250,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Sep 2024",
+          "rating": { "stars": 4.5, "count": 3000 }
+        },
+        {
+          "id": "076",
+          "image": "images/76.jpg",
+          "company": "Instant",
+          "item_name": " Men's wear",
+          "original_price": 625,
+          "current_price": 437,
+          "discount_percentage": 30,
+          "return_period": 10,
+          "delivery_date": "01 Oct 2024",
+          "rating": { "stars": 4.2, "count": 5040 }
+        },
+        {
+          "id": "077",
+          "image": "images/77.jpg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 700,
+          "current_price": 420,
+          "discount_percentage": 40,
+          "return_period": 11,
+          "delivery_date": "15 Oct 2024",
+          "rating": { "stars": 3.8, "count": 4130 }
+        },
+        {
+          "id": "078",
+          "image": "images/78.jpg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 580,
+          "current_price": 464,
+          "discount_percentage": 45,
+          "return_period": 14,
+          "delivery_date": "10 May 2024",
+          "rating": { "stars": 4.5, "count": 2560 }
+        },
+        {
+          "id": "079",
+          "image": "images/79.jpg",
+          "company": "Instant",
+          "item_name": "Men's wear",
+          "original_price": 1000,
+          "current_price": 400,
+          "discount_percentage": 60,
+          "return_period": 10,
+          "delivery_date": "17 Aug 2024",
+          "rating": { "stars": 4.6, "count": 2456 }
+        },
+        {
+          "id": "080",
+          "image": "images/80.jpg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    },
+    {
+      "urbannestItems": [
+        {
+          "id": "081",
+          "image": "images/81.jpg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 285,
+          "current_price": 142,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Oct 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        },
+        {
+          "id": "082",
+          "image": "images/82.jpg",
+          "company": "Instant",
+          "item_name": "Men's wear",
+          "original_price": 485,
+          "current_price": 291,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "13 Oct 2024",
+          "rating": { "stars": 4.3, "count": 4000 }
+        },
+        {
+          "id": "083",
+          "image": "images/83.jpg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 500,
+          "current_price": 250,
+          "discount_percentage": 50,
+          "return_period": 14,
+          "delivery_date": "10 Sep 2024",
+          "rating": { "stars": 4.5, "count": 3000 }
+        },
+        {
+          "id": "084",
+          "image": "images/84.jpg",
+          "company": "Instant",
+          "item_name": " Men's wear",
+          "original_price": 625,
+          "current_price": 437,
+          "discount_percentage": 30,
+          "return_period": 10,
+          "delivery_date": "01 Oct 2024",
+          "rating": { "stars": 4.2, "count": 5040 }
+        },
+        {
+          "id": "085",
+          "image": "images/85.jpg",
+          "company": "Instant",
+          "item_name": "Shoes  for men's",
+          "original_price": 700,
+          "current_price": 420,
+          "discount_percentage": 40,
+          "return_period": 11,
+          "delivery_date": "15 Oct 2024",
+          "rating": { "stars": 3.8, "count": 4130 }
+        },
+        {
+          "id": "086",
+          "image": "images/86.jpg",
+          "company": "Instant",
+          "item_name": "T-shirt for men's",
+          "original_price": 580,
+          "current_price": 464,
+          "discount_percentage": 45,
+          "return_period": 14,
+          "delivery_date": "10 May 2024",
+          "rating": { "stars": 4.5, "count": 2560 }
+        },
+        {
+          "id": "087",
+          "image": "images/87.jpg",
+          "company": "Instant",
+          "item_name": "Men's wear",
+          "original_price": 1000,
+          "current_price": 400,
+          "discount_percentage": 60,
+          "return_period": 10,
+          "delivery_date": "17 Aug 2024",
+          "rating": { "stars": 4.6, "count": 2456 }
+        },
+        {
+          "id": "088",
+          "image": "images/88.jpg",
+          "company": "Instant",
+          "item_name": "Shirt for men's",
+          "original_price": 1000,
+          "current_price": 600,
+          "discount_percentage": 40,
+          "return_period": 10,
+          "delivery_date": "10 Nov 2024",
+          "rating": { "stars": 4, "count": 5000 }
+        }
+      ]
+    }
+  ]
+}
